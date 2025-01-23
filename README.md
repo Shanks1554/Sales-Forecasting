@@ -12,6 +12,6 @@ This project uses machine learning techniques to analyze and forecast sales data
 - 🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib, XGBoost and Seaborn.
 
 ## How to Run
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/Shanks1554/sales-forecasting.git
