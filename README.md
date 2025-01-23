@@ -9,7 +9,7 @@ This project uses machine learning techniques to analyze and forecast sales data
 ## Features
 - 📊 Data Visualization: Graphical insights into historical sales data.
 - 🤖 Machine Learning: Predictive modeling for sales forecasting.
-- 🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib, and Seaborn.
+- 🛠️ Tools: Python, Pandas, Scikit-learn, Matplotlib, XGBoost and Seaborn.
 
 ## How to Run
 1. Clone this repository:
